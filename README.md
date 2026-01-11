@@ -71,6 +71,8 @@ Once the Simulator is open, boot a device (or let Xcode handle this automaticall
 Step four: install the build onto your simulator
 Command: npm run tauri ios dev
 
-** This app bundle is still in its early stages and may have some bugs **
 
-I hope you enjoy the product of my now messed up sleep schedule! (P.S. Email me if you find any bugs pls and thx)
+
+**This app bundle is still in its early stages and may have some bugs**
+
+## I hope you enjoy the product of my now messed up sleep schedule! (P.S. Email me if you find any bugs pls and thx)
