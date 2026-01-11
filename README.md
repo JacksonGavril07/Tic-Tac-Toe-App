@@ -39,7 +39,7 @@ Command: npm install
 Step four: Launch the desktop app
 Command: npm run tauri dev
 
-3# Instructions to run as a web app
+## Instructions to run as a web app
 
 Step one: Download the ZIP from this repository and unzip it.
 
