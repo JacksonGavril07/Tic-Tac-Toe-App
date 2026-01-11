@@ -7,3 +7,17 @@ Well...You're right to think that. Tic-tac-toe has been around for quite some ti
 The idea here is to show that I can develop a fully functional app and distribute it accross three different patforms. 
 
 Oh and maybe have a little fun while doing it :)
+
+# Instructions to run as a local app
+
+Step one: Open terminal and install npm if you don't already have it 
+Command: Npm install
+
+Step two: Download the zip file from this repo
+
+Step three: unzip the file and open terminal
+
+Step four: find and paste the file using the cd command then run the following in terminal to launch the app
+Command: Npm run tauri dev
+
+** This app is still in its early stages and may have some bugs **
